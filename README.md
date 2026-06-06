@@ -26,11 +26,10 @@
      ```bash
      git clone <URL>
      cd PasswordEncoder
-     and Launch the HTML
      ```
 3. **Watch the little demo!**
 
-   ![Supercalc Demo](https://raw.githubusercontent.com/fqrqh/WindowsUtility/refs/heads/main/previewgif.gif)
+   ![PssEncoder Demo](https://raw.githubusercontent.com/fqrqh/WindowsUtility/refs/heads/main/previewgif.gif)
 
 ## 📌Contributing
 
