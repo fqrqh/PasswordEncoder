@@ -1,7 +1,7 @@
 <h2 align="center">PasswordEncoder</h2>
 
 <p align="center">
-  <img width="530" height="333" alt="image" src="https://raw.githubusercontent.com/fqrqh/GetaBetterOpsec/refs/heads/main/appimg.png" />
+  <img width="530" height="333" alt="image" src="https://raw.githubusercontent.com/fqrqh/PasswordEncoder/refs/heads/main/passwordencoderimg.png" />
 </p>
 
 <p align="center">
