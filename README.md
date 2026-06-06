@@ -1,8 +1,4 @@
-<p align="center">
-  <img width="205" height="213" alt="image" src="https://raw.githubusercontent.com/fqrqh/GetaBetterOpsec/refs/heads/main/logooimg.png" />
-</p>
-
-<h2 align="center">WindowsUtility</h2>
+<h2 align="center">PasswordEncoder</h2>
 
 <p align="center">
   <img width="530" height="333" alt="image" src="https://raw.githubusercontent.com/fqrqh/GetaBetterOpsec/refs/heads/main/appimg.png" />
