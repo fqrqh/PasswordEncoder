@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+  <head>
+    <title>PasswordEncoder</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <h1>PasswordEncoder</h1>
+    <h3>Encode your password</h3>
+
+    <div class="frame"></div>
+    <input id="log" class="input">
+    <button id="btn" class="Button">Encode</button>
+    <div id="res" class="text"></div>
+
+    <script>
+      function encode(text) {
+        return btoa(text); 
+      }
+
+      document.getElementById("btn").onclick = encryption;
+
+      function encryption() {
+
+        const log     = document.getElementById("log").value;
+        const encoded = encode(log);
+        document.getElementById("res").textContent = `from "${log}" to "${encoded}"`;
+      }
+    </script>
+  </body>
+</html>
