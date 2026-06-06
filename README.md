@@ -12,27 +12,14 @@
 
 </p>
 
-## WindowsUtility 
+## PasswordEncoder
 
-**This project is a simple desktop app built with python, WindowsUtility can help you tweaks your computer. This project is NOT fully completed so expect bugs. It was compiled in VS Code Editor.**
-
-## Requirements
-customtkinter  
-pwinauto   
-time  
-psutil  
-os  
-pillow  
-
-platform (info)  
-
-Python 3.6+  
-
+**PasswordEncoder is a simple text to base64 encrypter, dont use these encrypted password since everybody can decode base64!! {SKILLS USE}**
 
 ## 📌Installation
 
-1. **Fork The Repository**
-   - Click the "Fork" button on the top right corner of the repository page.
+1. **Launch the Encoder**
+   - The Website was deployed to netlify at this link **[](link)**
 
 2. **Clone The Repository**
    - Clone the forked repository to your local machine:
