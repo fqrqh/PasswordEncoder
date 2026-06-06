@@ -29,7 +29,7 @@
      ```
 3. **Watch the little demo!**
 
-   ![PssEncoder Demo](https://raw.githubusercontent.com/fqrqh/WindowsUtility/refs/heads/main/previewgif.gif)
+   ![PssEncoder Demo](https://raw.githubusercontent.com/fqrqh/PasswordEncoder/refs/heads/main/prev.gif)
 
 ## 📌Contributing
 
