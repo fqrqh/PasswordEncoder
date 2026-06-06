@@ -1,7 +1,7 @@
 <h2 align="center">64Pass</h2>
 
 <p align="center">
-  <img width="530" height="333" alt="image" src="https://raw.githubusercontent.com/fqrqh/PasswordEncoder/refs/heads/main/passwordencoderimg.png" />
+  <img width="530" height="333" alt="image" src="https://raw.githubusercontent.com/fqrqh/PasswordEncoder/refs/heads/main/image%20(8).png" />
 </p>
 
 <p align="center">
