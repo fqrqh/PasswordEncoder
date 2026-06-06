@@ -19,7 +19,7 @@
 ## 📌Installation
 
 1. **Launch the Encoder**
-   - The Website was deployed to netlify at this link **[Passwordencoder](passwordencoder.netlify.app)**
+   - The Website was deployed to netlify at this link **https://passwordencoder.netlify.app/**
 
 2. **Open Source**
    - this project is open source!!
