@@ -15,6 +15,7 @@
 ## 64Pass
 
 **64Pass is a simple text to base64 encrypter, dont use these encrypted password since everybody can decode base64!!**
+**Mind you the JS was the priority**
 
 ## 📌Installation
 
