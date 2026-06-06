@@ -21,34 +21,16 @@
 1. **Launch the Encoder**
    - The Website was deployed to netlify at this link **[](link)**
 
-2. **Clone The Repository**
-   - Clone the forked repository to your local machine:
+2. **Open Source**
+   - this project is open source!!
      ```bash
      git clone <URL>
-     cd WindowsUtility
+     cd PasswordEncoder
+     and Launch the HTML
      ```
-3. **Install Requirements**
-
-   - Install all the requirements given in **[requirements.txt](link)** by running the command `pip install -r requirements.txt`
-
-5. **Install Psutil**  
-   - Follow the instructions given **[here](link**
-
-6. **Run the Tool**
-  - Run the main script:
-    ```bash
-    python windowsutility.py
-    ```
-  - Your Done !!!
-
 3. **Watch the little demo!**
 
    ![Supercalc Demo](https://raw.githubusercontent.com/fqrqh/WindowsUtility/refs/heads/main/previewgif.gif)
-
-## UPDATE
-Added Shell Execution commands (not working for now)
-
-Added UsernameLog, functions
 
 ## 📌Contributing
 
@@ -67,9 +49,9 @@ Please ⭐️ this repository if this project helped you!
 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
-## 📌Learning Resources to Extend This Project
+## ⛔REMINDER
 
-To build this project further and enhance its capabilities, a strong understanding of the following areas is recommended:
+This project was made for test usage only! DONT USE THESE ENCRYPTED PASSWORD 
 
 ### 🐍 Python Fundamentals
 Python is the core language behind this project. A solid grasp of syntax, control flow, functions, and error handling will help you modify and extend the assistant’s functionality.  
