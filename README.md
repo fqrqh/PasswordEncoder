@@ -53,11 +53,7 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 This project was made for test usage only! DONT USE THESE ENCRYPTED PASSWORD 
 
-### 🐍 Python Fundamentals
-Python is the core language behind this project. A solid grasp of syntax, control flow, functions, and error handling will help you modify and extend the assistant’s functionality.  
-👉 [Python Programming Course](https://www.mygreatlearning.com/academy/premium/master-python-programming)
 
----
 
 > *Some learning resources mentioned above are shared as part of an educational collaboration.*
 
