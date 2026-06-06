@@ -1,4 +1,4 @@
-<h2 align="center">PasswordEncoder</h2>
+<h2 align="center">64Pass</h2>
 
 <p align="center">
   <img width="530" height="333" alt="image" src="https://raw.githubusercontent.com/fqrqh/PasswordEncoder/refs/heads/main/passwordencoderimg.png" />
@@ -12,9 +12,9 @@
 
 </p>
 
-## PasswordEncoder
+## 64Pass
 
-**PasswordEncoder is a simple text to base64 encrypter, dont use these encrypted password since everybody can decode base64!!**
+**64Pass is a simple text to base64 encrypter, dont use these encrypted password since everybody can decode base64!!**
 
 ## 📌Installation
 
@@ -25,7 +25,7 @@
    - this project is open source!!
      ```bash
      git clone <URL>
-     cd PasswordEncoder
+     cd 64Pass
      ```
 3. **Watch the little demo!**
 
