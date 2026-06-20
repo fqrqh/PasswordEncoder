@@ -1,3 +1,6 @@
+Encode your password easly
+
+
 <h2 align="center">64Pass</h2>
 
 <p align="center">
